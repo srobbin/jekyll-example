@@ -1,7 +1,6 @@
 backend:
   name: git-gateway
   branch: main
-media_folder: "assets/uploads"
 collections:
   - name: "faculty"
     label: "Faculty"
