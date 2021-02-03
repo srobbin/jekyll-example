@@ -10,6 +10,7 @@ collections:
     create: true
     editor:
       preview: false
+    summary: "{{first_name}} {{last_name}}"
     fields:
       - name: first_name
         label: First Name
