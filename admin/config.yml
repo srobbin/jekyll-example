@@ -7,6 +7,8 @@ collections:
     label: "Faculty"
     folder: "_faculty/"
     slug: "{{first_name}}-{{last_name}}"
+    editor:
+      preview: false
     fields:
       - name: first_name
         label: First Name
