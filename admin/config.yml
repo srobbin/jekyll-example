@@ -21,3 +21,6 @@ collections:
         label: Email
       - name: phone
         label: Phone
+      - name: body
+        label: Description
+        widget: markdown
