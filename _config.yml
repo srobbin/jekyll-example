@@ -19,8 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Example
-email: test@example.com
-description:
+author:
+  name: Example
+  email: test@example.com
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
